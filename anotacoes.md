@@ -44,4 +44,12 @@ Ex: Você pode ter um sistema onde você tenha cadastro e gerenciamento de clien
 
 Diretivas, são responsáveis por modificar elementos DOM e/ou seu comportamento. Durante as aulas veremos que os componentes também são diretivas, porque o componente em sí também está modificando o DOM, seja fazendo o display de um formulário, ou de uma div. Além de componentes sendo diretivas também temos as diretivas cuja principal função é de modificar elementos DOM. 
 
-A nossa aplicação também pode ser dividida em módulos. Voltando para o exemplo de clientes, produtos e vendas, nós podemos ter uma aplicação que tenha 3 módulos (módulo cliente, módulo produto e módulo vendas).
+A nossa aplicação também pode ser dividida em módulos. Voltando para o exemplo de clientes, produtos e vendas, nós podemos ter uma aplicação que tenha 3 módulos (módulo cliente, módulo produto e módulo vendas). 
+
+## Aula 02 - Ambiente de Desenvolvimento
+
+- https://nodejs.org 
+
+Instalar o NodeJS. Quando instalamos o NodeJs, el
+  
+
